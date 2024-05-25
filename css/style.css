@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #802324
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color:#802324;padding-bottom: 0;padding-top: 0 
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item{
+	color: white
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover{
+background-color: #79D9C2
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li{
+border-bottom: 1px solid white
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding-left: 30px
+}
+.gach-chan{
+	border-bottom: 2px solid #931113
+}
+.vien{
+	border: 1px;
+}
